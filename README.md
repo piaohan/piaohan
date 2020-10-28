@@ -5,10 +5,9 @@
 ![info](https://github-readme-stats.vercel.app/api?username=piaohan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)]()
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]()
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)]()
@@ -19,6 +18,7 @@
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)]()
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)]()
 
+[![](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)]()
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
