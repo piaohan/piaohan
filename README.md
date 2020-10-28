@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![](http://antzuhl.cn:4000/get/@piaohan.readme)](https://github.com/piaohan)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piaohan&show_icons=true&theme=onedark)](https://github.com/piaohan)&ensp;[![](http://antzuhl.cn:4000/get/@piaohan.readme)](https://github.com/piaohan)
 
-![info](https://github-readme-stats.vercel.app/api?username=piaohan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)]()
