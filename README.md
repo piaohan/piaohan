@@ -40,3 +40,6 @@
 [![](https://img.shields.io/badge/-Xbox-107C10?style=flat-square&logo=xbox&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198098555115/)
 
+
+<img src="https://wakatime.com/share/@b7f93d9a-207f-4f28-9f5a-33772a2eeead/168442ae-c806-4054-95d5-258d274b513e.svg" width=60% />
+
