@@ -2,7 +2,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piaohan&show_icons=true&theme=onedark)](https://github.com/piaohan)&ensp;[![](http://antzuhl.cn:4000/get/@piaohan.readme)](https://github.com/piaohan)
 
-
 #### Technology stack
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)]()
 [![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)]()
@@ -30,10 +29,6 @@
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)]()
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)]()
 
-
-
-
-
 #### Console&Game
 
 [![](https://img.shields.io/badge/-Nintendo%20Switch-D12228?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)]()
@@ -42,5 +37,3 @@
 
 
 ![image](https://github.com/piaohan/piaohan/blob/main/dino.gif)
-<img src="https://wakatime.com/share/@b7f93d9a-207f-4f28-9f5a-33772a2eeead/168442ae-c806-4054-95d5-258d274b513e.svg" width=60% />
-
