@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piaohan&show_icons=true&theme=onedark)](https://github.com/piaohan)&ensp;[![](http://antzuhl.cn:4000/get/@piaohan.readme)](https://github.com/piaohan)
 
 
-#### Platform&Tools
+#### Technology stack
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)]()
 [![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]()
