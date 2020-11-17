@@ -12,6 +12,8 @@
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)]()
 
+[![](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)]()
+
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)]()
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)]()
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)]()
@@ -31,6 +33,7 @@
 [![](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff)]()
 
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)]()
+[![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)]()
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)]()
 [![](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Bower-EF5734?style=flat-square&logo=bower&logoColor=ffffff)]()
@@ -38,7 +41,7 @@
 [![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)]()
 
 
-#### Console&Game
+#### Game
 
 [![](https://img.shields.io/badge/-Nintendo%20Switch-D12228?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Xbox-107C10?style=flat-square&logo=xbox&logoColor=ffffff)]()
