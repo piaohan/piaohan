@@ -47,6 +47,6 @@
 [![](https://img.shields.io/badge/-Xbox-107C10?style=flat-square&logo=xbox&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198098555115/)
 
-# Welcome to My Blog:[传送门](https://blog.mypzh.com)
+# Welcome to My Blog:[传送门](http://blog.mypzh.com)
 
 ![image](https://github.com/piaohan/piaohan/blob/main/dino.gif)
