@@ -1,6 +1,6 @@
 ### Hello 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piaohan&show_icons=true&theme=onedark)](https://blog.mypzh.com)&ensp;
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piaohan&show_icons=true&theme=onedark)](https://blog.mypzh.com)&ensp; -->
 
 #### Technology stack
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)]()
